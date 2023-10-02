@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Md Rashid Khan! <br/><a href="https://www.linkedin.com/in/mdrashidkhan/">IT Support Professional</a>, <a href="https://www.youtube.com/@ITSUPPORTPRO/videos">YouTuber</a></h1>
+<h1>Hi, I'm Md Rashid Khan! <br/><a href="https://coursera.org/share/fdf92c2ea362b98826afc4f28c4bbf45">IT Support Professional</a>, <a href="https://www.youtube.com/@ITSUPPORTPRO/videos">YouTuber</a></h1>
 
 [Microsoft Learn]: https://learn.microsoft.com/en-us/users/rashidkhan67/
 [youtube]: https://www.youtube.com/@ITSUPPORTPRO/videos
