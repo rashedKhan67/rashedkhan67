@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1>Hi, I'm Md Rashid Khan! <br/><a href="https://www.linkedin.com/in/mdrashidkhan/">IT Support Professional</a>, <a href="https://www.youtube.com/@ITSUPPORTPRO/videos">YouTuber</a></h1>
+
+[Microsoft Learn]: https://learn.microsoft.com/en-us/users/rashidkhan67/
+[youtube]: https://www.youtube.com/@ITSUPPORTPRO/videos
+[linkedin]: https://www.linkedin.com/in/mdrashidkhan/
 
 <!--
 **rashedKhan67/rashedkhan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
